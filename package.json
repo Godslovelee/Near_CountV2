@@ -1,0 +1,16 @@
+{
+  "name": "near-cout",
+  "version": "1.0.0",
+  "description": "Counter App",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp"
+  },
+  "author": "Godslove Lee",
+  "license": "ISC",
+  "devDependencies": {
+
+    "near-sdk-as": "^3.2.3"
+  }
+}
+    
